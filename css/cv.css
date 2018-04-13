@@ -1,0 +1,129 @@
+* {
+    box-sizing:border-box;
+    font-family:'Montserrat',sans-serif;
+    margin:0;
+    padding:0
+    }
+    
+    body {
+    background:#7fffd4
+    }
+    
+    header {
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    float:left;
+    margin-right:5px;
+    margin-top:5px;
+    padding:20px;
+    width:25%;
+    
+
+    }
+    
+    h2 {
+    border-bottom:2px solid #7fffd4
+    }
+    
+    h3 {
+    font-size:1.5em
+    }
+    
+    .contenedor {
+    margin-left:auto;
+    margin-right:auto;
+    width:80%
+    }
+    
+    .perfil {
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    float:right;
+    line-height:1.8;
+    margin-top:5px;
+    padding:20px;
+    width:74%
+    }
+    
+    .menu {
+    border-radius:1px solid #555;
+    list-style-type:none
+    }
+    
+    .menu li {
+    border:1px solid #555;
+    border-radius:7px;
+    margin:3px 0;
+    text-align:center;
+    transition:background 500ms
+    }
+    
+    .menu li a {
+    color:#000;
+    display:block;
+    text-decoration:none;
+    width:100%
+    }
+    
+    .menu li:hover {
+    background:#7fffd4
+    }
+    
+    .foto-perfil {
+    width:100%
+    }
+    
+    .datos {
+    list-style-type:none
+    }
+    
+    .datos li {
+    border-bottom-color:#7fffd4;
+    letter-spacing:3px
+    }
+    
+    .foto {
+    list-style-type:none
+    }
+    
+    .foto li {
+    display:inline
+    }
+    
+    .contenido {
+    float:right;
+    width:74%
+    }
+    
+    .formacion {
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    line-height:1.8;
+    margin-top:5px;
+    padding:20px
+    }
+    
+    .experiencia {
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    line-height:1.8;
+    margin-top:5px;
+    padding:20px
+    }
+    
+    .portfolio {
+    background:#fff;
+    border-radius:20px;
+    box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-top:5px;
+    margin-top:5px;
+    padding:20px
+    }
+    
+    .portfolio ul li img {
+    width:24%
+    }
