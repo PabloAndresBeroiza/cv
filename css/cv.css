@@ -131,6 +131,23 @@
     margin-top:5px;
     padding:20px
     }
+
+    .referencia {
+        background:#fff;
+        border-radius:20px;
+        box-shadow:0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+        line-height:1.8;
+        margin-top:5px;
+        padding:20px
+        }
+        dt {
+            font-weight: bold;
+            text-decoration: underline;
+          }
+          dd {
+            margin: 0;
+            padding: 0 0 0.5em 0;
+          }
     
     .portfolio {
     background:#fff;
