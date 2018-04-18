@@ -90,7 +90,25 @@
     .foto li {
     display:inline
     }
+
+    .social{
+        text-align: center;
+        font-size: 1.5em;
+        color: #000;
+    }
     
+    .fa-facebook-f{
+        color: #3b5998;
+    }
+    .fa-google-plus{
+    color:#d34836;    
+    }
+
+    .fa-twitter{
+        color:#1b95e0;
+    }
+
+
     .contenido {
     float:right;
     width:74%
